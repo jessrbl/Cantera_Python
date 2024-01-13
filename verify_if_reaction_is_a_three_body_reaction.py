@@ -5,12 +5,13 @@ g = ct.Solution('gri30.yaml')
 
 ct.ThirdBody
 # Obtendo a primeira reação
+
 reaction = g.reaction(2)
-print(f"Reação 1: {reaction}")
+print(f"Reaction: {reaction}")
 
 # Verificando o tipo de reação
 reaction_type = reaction.reaction_type 
-print(f"Tipo da Reação 1: {reaction_type}")
+print(f"Reaction type: {reaction_type}")
 
 # Verificando se é uma reação de terceiro corpo
 if reaction_type == 'three-body-Arrhenius':
