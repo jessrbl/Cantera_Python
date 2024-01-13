@@ -3,12 +3,13 @@
 
 <div style="text-align: justify;">
 
+
 <p align="center">
-  <strong style="font-size: 80%;">Figure 1:</strong> <span style="font-size: 80%;">Cantera.</span><br>
-  <img src="images/cantera.png" alt="Cantera" width="100" height="100" style="border: 1px solid #000;">
+  <strong style="font-size: 70%;">Figure 1:</strong> <span style="font-size: 80%;">Cantera.</span><br>
+  <img src="images/cantera.png" width="500px" height="200px" alt="Cantera." style="border: 1px solid #000;">
 </p>
 
-<p align="center" style="font-size: 80%;">
+<p align="center" style="font-size: 70%;">
   <strong>Source:</strong> GOODWIN; MOFFAT; SPETH (2015) [1].
 </p>
 
