@@ -5,7 +5,11 @@
 
 <p align="center">
   <strong style="font-size: 80%;">Figure 1:</strong> <span style="font-size: 80%;">Cantera.</span><br>
-  <img src="images/cantera.png" alt="Cantera" width="200" height="200" style="border: 1px solid #000;">
+  <img src="images/cantera.png" alt="Cantera" width="100" height="100" style="border: 1px solid #000;">
+</p>
+
+<p align="center" style="font-size: 80%;">
+  <strong>Source:</strong> GOODWIN; MOFFAT; SPETH (2015) [1].
 </p>
 
 Cantera is a versatile suite of object-oriented software 
@@ -22,9 +26,10 @@ and Fortran 90, making it a flexible and powerful choice
 for researchers and engineers involved in modeling and 
 simulating complex systems (FELDEN, 2015) [2].
 
-##References 
+## References 
 
 [1] David G. Goodwin, Harry K. Moffat, Ingmar Schoegl, Raymond L. Speth, and Bryan W. Weber. Cantera: An object-oriented software toolkit for chemical kinetics, thermodynamics, and transport processes. https://www.cantera.org, 2023. Version 3.0.0. doi:10.5281/zenodo.8137090
+
 [2] FELDEN, Anne. CANTERA tutorials. Cerfacs, 2015.
 
 </div>
